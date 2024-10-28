@@ -1,0 +1,38 @@
+body {background-color: black;
+color: white}
+#photonoah {width: 250px; height: 250px; border-radius: 50%;}
+h1 {font-family: Copperplate}
+h2 {font-family: Copperplate}
+p {font-family: Monaco}
+a {font-family: Monaco;
+	background-color: black
+color: white}
+
+/* custom design with class */
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+.card-gray {
+	background-color: rgb(25,25,25);
+	padding:30px;
+	box-shadow: 0px 10px 30px;
+	border-radius: 5px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.btn-purple {
+
+	background-color: rgb(50,50,50);
+	color: white;
+	padding: 15px 20px; 
+	border-radius: 5px
+}
+
+.btn-pruple: hover {
+	background-color: black);
+	color: white;
+}
